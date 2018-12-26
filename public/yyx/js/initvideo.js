@@ -21,7 +21,7 @@
 	//第二页
 	var temp2 = '';
 
-	for (i = 9; i<= 18; i ++) {
+	for (i = 9; i<= 16; i ++) {
 
 		temp2  += pre + i + fix;
 	
@@ -32,7 +32,7 @@
 	//第三页
 	var temp3 = '';
 
-	for (i = 19; i<= 26; i ++) {
+	for (i = 17; i<= 24; i ++) {
 
 		temp3  += pre + i + fix;
 	
