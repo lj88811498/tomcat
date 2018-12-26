@@ -1,4 +1,4 @@
-﻿
+
 html, body, header, nav, footer, div, ul, ol, li, p, form, input, a, span, em, i, strong, b, font, img {
 	margin: 0;
 	padding: 0;
@@ -1276,7 +1276,7 @@ nav.fixed ul .search_box .hot_search>div.open {
 
 .new_mv_title ul li {
 	width: 50px;
-	height: 135px;
+	height: 40px;
 	float: left;
 	text-align: center;
 }
