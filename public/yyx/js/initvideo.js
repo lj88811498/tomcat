@@ -40,6 +40,27 @@
 	
 	$("#magic").html(temp3); 
 
+	//第四页
+	var temp4 = '';
+
+	for (i = 25; i<= 32; i ++) {
+
+		temp4  += pre + i + fix;
 	
+	}
+
+	$("#christ").html(temp4); 
+	
+
+	//第五页，只有35个
+	var temp5 = '';
+
+	for (i = 33; i<= 35; i ++) {
+
+		temp5  += pre + i + fix;
+	
+	}
+
+	$("#bless").html(temp5); 
 	 
  }
